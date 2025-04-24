@@ -1,3 +1,11 @@
 title: "База знаний "
-supportedLanguages: []
-properties: []
+supportedLanguages:
+  - ru
+properties:
+  - name: Дата
+    type: Date
+    icon: timer
+    style: green
+style: red
+language: ru
+code: БЗ
