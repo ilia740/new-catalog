@@ -4,5 +4,3 @@ title: Банк Кетовский(Курган)
 ---
 
 [view:hierarchy=none::::List]
-
-
